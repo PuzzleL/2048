@@ -1,4 +1,4 @@
-package tk.woppo.mgame;
+package com.zxl.firstgame;
 
 /**
  * Created by Ho on 2014/8/13.

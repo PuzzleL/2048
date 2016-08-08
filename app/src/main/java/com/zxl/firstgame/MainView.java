@@ -1,4 +1,4 @@
-package tk.woppo.mgame;
+package com.zxl.firstgame;
 
 import android.content.Context;
 import android.content.res.Resources;

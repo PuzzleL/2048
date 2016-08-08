@@ -1,8 +1,6 @@
-package tk.woppo.mgame;
+package com.zxl.firstgame;
 
 import android.content.SharedPreferences;
-import android.media.Image;
-import android.nfc.Tag;
 import android.preference.PreferenceManager;
 import android.support.v7.app.ActionBarActivity;
 import android.os.Bundle;

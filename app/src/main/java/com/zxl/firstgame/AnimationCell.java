@@ -1,4 +1,4 @@
-package tk.woppo.mgame;
+package com.zxl.firstgame;
 
 public class AnimationCell extends Cell {
     private int animationType;
